@@ -7,10 +7,10 @@ Full-Stack Developer
 Information Systems student at UTFPR 👨‍💻
 
 ## About me
-- ⚛️  I'm a mobile developer at Wiser Educação
+- ⚛️  I'm a Softawer developer at Wiser Educação
 - 🔭 I’m currently working on [RevisApp](https://play.google.com/store/apps/details?id=com.klawapps.revisapp&hl) and other personal projects with React, Node and React Native!
 - 🌱 I’m currently deepening my studies in React, React Native, Flutter and Node
-- 🧠 I'm creator of [RevisApp](https://play.google.com/store/apps/details?id=com.klawapps.revisapp&hl), an educational app with more than 500.000 downloads
+- 🧠 I'm creator of [RevisApp](https://play.google.com/store/apps/details?id=com.klawapps.revisapp&hl), an educational app with more than 600.000 downloads
 - 🐶 I'm creator of [Doggo](https://twitter.com/DoggoTheBot), a cute bot for twitter!
 - 💡 You can see other personal projects in my [repositories](https://github.com/juniorklawa)
 -  ⚡ Technologies: React Native, Node, GraphQL, React, Angular, Ionic, Flutter, Unity3D
