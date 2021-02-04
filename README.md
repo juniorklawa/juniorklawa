@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://i.imgur.com/JGn9nlU.png">
+<img align="right" width="400" height="400" src="https://i.imgur.com/wFsxG1B.png">
 
 ### What's up! I'm Everaldo! 👋
 
