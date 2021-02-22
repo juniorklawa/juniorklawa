@@ -14,7 +14,7 @@ Information Systems student at UTFPR 👨‍💻
 - 🐶 [Doggo](https://twitter.com/DoggoTheBot), a cute bot for twitter!
 - 🎧 and [Strackify](https://play.google.com/store/apps/details?id=com.soundtrackio), An app that combines Books and Playlists
 - 💡 You can see other personal projects in my [repositories](https://github.com/juniorklawa)
--  ⚡ Technologies: React Native, Node, GraphQL, React, Angular, Ionic, Flutter, Unity3D
+-  ⚡ Technologies: React Native, Node, GraphQL, React, Ionic, Flutter, Unity3D
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-juniorklawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everaldojuniorklawa/)](https://www.linkedin.com/in/everaldojuniorklawa/)
