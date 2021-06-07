@@ -11,7 +11,7 @@ Information Systems student at UTFPR 👨‍💻
 - 🔭 I’m currently working on [RevisApp](https://play.google.com/store/apps/details?id=com.klawapps.revisapp&hl) and other personal projects with React, Node and React Native!
 - 🌱 I’m currently deepening my studies in React, React Native, Flutter and Node
 - 🧠 I'm creator of [RevisApp](https://play.google.com/store/apps/details?id=com.klawapps.revisapp&hl), an educational app with more than 800.000 downloads,
-- 🐶 [Doggo](https://twitter.com/DoggoTheBot), a cute bot for twitter!
+- 🔤 [react-native-auto-size-text](https://github.com/juniorklawa/react-native-auto-size-text), a React Native component that provides several ways to resize text within a certain dimension/parent.
 - 🎧 and [Strackify](https://play.google.com/store/apps/details?id=com.soundtrackio), An app that combines Books and Playlists
 - 💡 You can see other personal projects in my [repositories](https://github.com/juniorklawa)
 -  ⚡ Technologies: React Native, Node, GraphQL, React, Ionic, Flutter, Unity3D
