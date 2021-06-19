@@ -2,6 +2,9 @@
 
 ### What's up! I'm Everaldo! 👋
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorklawa&label=Profile%20views&color=0e75b6&style=flat" alt="juniorklawa" /> </p>
+
 Full-Stack Developer
 
 Information Systems student at UTFPR 👨‍💻
