@@ -19,6 +19,7 @@ Information Systems student at UTFPR 👨‍💻
 
 📘 Latest Blog Articles
 - [How to load local dynamic images in html in React Native](https://juniorklawa.medium.com/how-to-load-local-dynamic-images-with-html-in-react-native-ed4d50c161d1)
+- [Conditional types for props using TypeScript and React](https://everaldev.medium.com/conditional-component-props-using-typescript-and-react-f35c03ea3250)
 
 
 
