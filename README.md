@@ -17,12 +17,6 @@ Information Systems student at UTFPR 👨‍💻
 -  ⚡ Technologies: React Native, Node, GraphQL, React, Ionic, Flutter, Unity3D
 
 
-📘 Latest Blog Articles
-- [How to load local dynamic images in html in React Native](https://juniorklawa.medium.com/how-to-load-local-dynamic-images-with-html-in-react-native-ed4d50c161d1)
-- [Conditional types for props using TypeScript and React](https://everaldev.medium.com/conditional-component-props-using-typescript-and-react-f35c03ea3250)
-
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-juniorklawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everaldojuniorklawa/)](https://www.linkedin.com/in/everaldojuniorklawa/)
 [![Gmail Badge](https://img.shields.io/badge/-juniorklawa10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorklawa10@gmail.com)](mailto:juniorklawa10@gmail.com)
  
