@@ -19,4 +19,8 @@ Information Systems student at UTFPR 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-juniorklawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everaldojuniorklawa/)](https://www.linkedin.com/in/everaldojuniorklawa/)
 [![Gmail Badge](https://img.shields.io/badge/-juniorklawa10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorklawa10@gmail.com)](mailto:juniorklawa10@gmail.com)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/juniorklawa)
  
+
+
+	
