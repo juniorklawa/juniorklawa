@@ -17,8 +17,8 @@ Information Systems student at UTFPR 👨‍💻
 -  ⚡ Technologies: React Native, Node, GraphQL, React, Ionic, Flutter, Unity3D
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-juniorklawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everaldojuniorklawa/)](https://www.linkedin.com/in/everaldojuniorklawa/)
-[![Gmail Badge](https://img.shields.io/badge/-juniorklawa10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorklawa10@gmail.com)](mailto:juniorklawa10@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everaldojuniorklawa/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorklawa10@gmail.com)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/juniorklawa)
  
 
