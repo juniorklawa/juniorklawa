@@ -7,7 +7,7 @@ Full-Stack Developer
 Information Systems student at UTFPR 👨‍💻
 
 ## About me
-- ⚛️  I'm a Software developer at Whitespectre
+- ⚛️  I'm a Software Engineer at Whitespectre
 - 🔭 I’m currently working on [RevisApp](https://play.google.com/store/apps/details?id=com.klawapps.revisapp&hl) and other personal projects with React, Node and React Native!
 - 🌱 I’m currently deepening my studies in React, React Native, Flutter and Node
 - 🧠 I'm creator of [RevisApp](https://play.google.com/store/apps/details?id=com.klawapps.revisapp&hl), an educational app with more than 2.000.000 downloads,
