@@ -13,7 +13,7 @@ Information Systems student at UTFPR 👨‍💻
 - 🧠 I'm creator of [RevisApp](https://play.google.com/store/apps/details?id=com.klawapps.revisapp&hl), an educational app with more than 2.000.000 downloads,
 - 🔤 [react-native-auto-size-text](https://github.com/juniorklawa/react-native-auto-size-text), a React Native component that provides several ways to resize text within a certain dimension/parent.
 - 👨‍💻 [Codict](https://play.google.com/store/apps/details?id=com.codict), An app to help you in your tech interview
-- 😉 [Interview Bro](https://interviewbro.io), Work in Progress...
+- 😉 [Interview Bro](https://interviewbro.io), Practice for your interview with AI.
 - 💡 You can see other personal projects in my [repositories](https://github.com/juniorklawa)
 -  ⚡ Technologies: React, NextJS, React Native, Node, GraphQL, React, Ionic, Flutter, Unity3D
 
