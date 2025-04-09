@@ -4,9 +4,10 @@
 
 Full-Stack Developer
 
-> Code is just code
-
 ## About me
+
+> Code is just code.
+
 - ⚛️  I'm a Software Engineer at Whitespectre
 - 🔭 I’m currently working on [RevisApp](https://play.google.com/store/apps/details?id=com.klawapps.revisapp&hl) and other personal projects with React, Node and React Native!
 - 🌱 I’m currently deepening my studies in React, React Native, Flutter and Node
