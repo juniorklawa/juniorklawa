@@ -4,7 +4,7 @@
 
 Full-Stack Developer
 
-Information Systems student at UTFPR 👨‍💻
+> Code is just code
 
 ## About me
 - ⚛️  I'm a Software Engineer at Whitespectre
