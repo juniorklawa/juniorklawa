@@ -12,7 +12,7 @@ Currently working as a Software Engineer at Whitespectre. Founder of [RevisApp](
 - 🔤 [react-native-auto-size-text](https://github.com/juniorklawa/react-native-auto-size-text), a React Native component that provides several ways to resize text within a certain dimension/parent.
 - 👨‍💻 [Codict](https://play.google.com/store/apps/details?id=com.codict), An app to help you in your tech interview
 - 😉 [Interview Bro](https://interviewbro.io), Practice for your interview with AI.
-- 🎧 [Qual o NerdCast?](https://qualonerdcast.com), A tool that helps NerdCast podcast listeners find exactly which episode and timestamp discusses a specific topic or tells a particular story they're looking for using AI.
+- 🎧 [Qual o NerdCast?](https://qualonerdcast.com), AI tool for NerdCast listeners to pinpoint the exact episode and timestamp for any topic or story.
 - 📖 [Devocional Para Você](https://devocionalparavoce.com), A mobile and web app that transforms your sunday service into daily devotionals.
 -  ⚡ Technologies: React, NextJS, React Native, Node, GraphQL, React, Flutter, Docker, PostgreSQL, MongoDB
 
