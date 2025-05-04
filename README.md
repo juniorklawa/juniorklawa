@@ -16,6 +16,8 @@ Currently working as a Software Engineer at Whitespectre. Founder of [RevisApp](
 - 📖 [Devocional Para Você](https://devocionalparavoce.com), A mobile and web app that transforms your sunday service into daily devotionals.
 -  ⚡ Technologies: React, NextJS, React Native, Node, GraphQL, React, Flutter, Docker, PostgreSQL, MongoDB
 
+you can check more details [here](https://brainoverflow.dev/projects)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everaldojuniorklawa/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorklawa10@gmail.com)
