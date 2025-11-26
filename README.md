@@ -8,7 +8,7 @@ Software Engineer, product oriented developer.
 
 > Code is just code.
 
-Currently working as a Software Engineer at Whitespectre. Founder of [RevisApp](https://revisapp.com) and other personal projects like:
+Currently working as a Software Engineer at Luma Health. Founder of [RevisApp](https://revisapp.com) and other personal projects like:
 - 🔤 [react-native-auto-size-text](https://github.com/juniorklawa/react-native-auto-size-text), a React Native component that provides several ways to resize text within a certain dimension/parent.
 - 👨‍💻 [Codict](https://play.google.com/store/apps/details?id=com.codict), An app to help you in your tech interview
 - 😉 [Interview Bro](https://interviewbro.io), Practice for your interview with AI.
